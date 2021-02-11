@@ -15,24 +15,24 @@
   </a>
 
   <!-- PROJECT TITLE -->
-  <h1 align="center"><#PROJECT TITLE#></h1>
+  <h1 align="center">OSU HART Commercial Avionics</h1>
 
   <p align="center">
     <!-- SHORT PROJECT DESCRIPTION -->
-    <#SHORT PROJECT DESCRIPTION#>
+    Rocket Avionics Flight Subsystem for OSU HART
     <br />
     <!-- LINK TO DOCUMENTATION -->
-    <a href="https://hart-avionics.github.io/<#PROJECT#>/"><strong>Explore the docs »</strong></a>
+    <a href="https://hart-avionics.github.io/osu-hart-commercial-avionics/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- LINK TO DEMO
     <a href="INSERT LINK TO DEMO HERE">View Demo</a>
     · -->
     <!-- LINK TO ISSUES -->
-    <a href="https://github.com/HART-Avionics/<#PROJECT#>/issues">Report Bug</a>
+    <a href="https://github.com/HART-Avionics/osu-hart-commercial-avionics/issues">Report Bug</a>
     ·
     <!-- LINK TO ISSUES -->
-    <a href="https://github.com/HART-Avionics/<#PROJECT#>/issues">Request Feature</a>
+    <a href="https://github.com/HART-Avionics/osu-hart-commercial-avionics/issues">Request Feature</a>
   </p>
 </p>
 
@@ -60,7 +60,7 @@ Table of Contents
 About the Project
 ---------------------
 <!-- Description of the project and it's intended purpose or origin story. -->
-<#LONG PROJECT DESCRIPTION#>
+OSU HART's current Flight Subsystem comprises of commercially developed hardware and software from Altus Metrum. The goal is to eventually replace this subsystem with a student-developed Flight Subsystem which is currently under development.
 
 This project is currently under construction.
 
@@ -106,7 +106,7 @@ $ sudo apt-get install texlive-latex-recommended texlive-fonts-recommended texli
 ### Installing
 1. Clone the repo
     ```bash
-    $ git clone https://github.com/HART-Avionics/<#PROJECT#>.git
+    $ git clone https://github.com/HART-Avionics/osu-hart-commercial-avionics.git
     ```
 
 <a name="usage"></a>
@@ -178,17 +178,17 @@ Acknowledgements
 -->
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[cicd-shield]: https://github.com/HART-Avionics/<#PROJECT#>/workflows/CI/CD/badge.svg?branch=develop
+[cicd-shield]: https://github.com/HART-Avionics/osu-hart-commercial-avionics/workflows/CI/CD/badge.svg?branch=develop
 [cicd-url]: https://github.com/HART-Avionics/docs/actions "CI/CD"
-[contributors-shield]: https://img.shields.io/github/contributors/HART-Avionics/<#PROJECT#>
-[contributors-url]: https://github.com/HART-Avionics/<#PROJECT#>/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/HART-Avionics/<#PROJECT#>
-[forks-url]: https://github.com/HART-Avionics/<#PROJECT#>/network/members
-[stars-shield]: https://img.shields.io/github/stars/HART-Avionics/<#PROJECT#>
-[stars-url]: https://github.com/HART-Avionics/<#PROJECT#>/stargazers
-[issues-shield]: https://img.shields.io/github/issues/HART-Avionics/<#PROJECT#>
-[issues-url]: https://github.com/HART-Avionics/<#PROJECT#>/issues
-[license-shield]: https://img.shields.io/github/license/HART-Avionics/<#PROJECT#>
-[license-url]: https://github.com/HART-Avionics/<#PROJECT#>/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/HART-Avionics/osu-hart-commercial-avionics
+[contributors-url]: https://github.com/HART-Avionics/osu-hart-commercial-avionics/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/HART-Avionics/osu-hart-commercial-avionics
+[forks-url]: https://github.com/HART-Avionics/osu-hart-commercial-avionics/network/members
+[stars-shield]: https://img.shields.io/github/stars/HART-Avionics/osu-hart-commercial-avionics
+[stars-url]: https://github.com/HART-Avionics/osu-hart-commercial-avionics/stargazers
+[issues-shield]: https://img.shields.io/github/issues/HART-Avionics/osu-hart-commercial-avionics
+[issues-url]: https://github.com/HART-Avionics/osu-hart-commercial-avionics/issues
+[license-shield]: https://img.shields.io/github/license/HART-Avionics/osu-hart-commercial-avionics
+[license-url]: https://github.com/HART-Avionics/osu-hart-commercial-avionics/blob/main/LICENSE
 [sphinx-docs]: https://www.sphinx-doc.org/en/master/index.html
 [donate-url]: https://osuaiaa.com/donate
