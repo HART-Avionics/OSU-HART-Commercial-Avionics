@@ -22,7 +22,7 @@
     Rocket Avionics Flight Subsystem for OSU HART
     <br />
     <!-- LINK TO DOCUMENTATION -->
-    <a href="https://hart-avionics.github.io/osu-hart-commercial-avionics/"><strong>Explore the docs »</strong></a>
+    <a href="https://hart-avionics.github.io/OSU-HART-Commercial-Avionics/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- LINK TO DEMO
